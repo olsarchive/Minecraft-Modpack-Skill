@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minecraft 作者更新同步"
+  short_description: "保留定制整合包与旧档，对比作者更新、历史修复并生成可复现适配清单"
+  default_prompt: "使用 $minecraft-modpack-upstream-sync 检查我的定制整合包如何同步作者新版，先查历史移植和失败记录，保留本地功能，区分候选、冲突与已验证内容。"
