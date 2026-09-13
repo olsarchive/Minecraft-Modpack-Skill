@@ -76,6 +76,10 @@ Record custom patches' input hashes, source/diff, build command, output hash, as
 
 ## 5. Test and apply within authorization
 
+Bind the user's designated MAIN display name, stable launcher ID, and absolute path using launcher records and actual gameDir. Folder names alone do not establish roles: the display name and directory may differ completely. Pin that binding. Test/export copies must not silently become MAIN. Apply accepted content back to that original instance using an exact manifest, and export only from the synchronized, verified MAIN. If the user continued normal play in a copy, establish ownership of the latest progress and preserve linked save data before cleanup; never blindly promote a world containing test items.
+
+Full-cycle closeout includes reclaiming disk space. Delete completed agent-verifiable test copies after confirming their accepted content is in MAIN and they contain no unique progress. Retain copies with specific outstanding manual checks. Record explicit user playtesting acceptance, including acceptance of residual scope for later repairs, without demanding exhaustive testing or inventing passes. Once required testing is complete or remaining scope is explicitly accepted, verify MAIN against the final manifest and remove obsolete TEST copies, duplicate staging, and failed exports. Resolve exact deletion paths, check open processes and unique data, retain necessary rollback material and compact evidence, verify reclaimed bytes, and remove corresponding stale launcher entries.
+
 Confirm normal game exit before creating an independent TEST copy. Verify the unchanged baseline, then dependency-complete feature chains, then the combined candidate. Use the real old world and corresponding player identity; a new offline account cannot prove the original party, PC, quests, and inventory survived.
 
 Reuse and cite existing evidence when exact inputs, relevant configuration, and trigger conditions are unchanged. Retest affected scope when a chain or final combination changes; do not restart full-pack testing every time.
