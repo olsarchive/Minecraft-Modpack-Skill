@@ -68,6 +68,14 @@ When settings must remain unchanged, snapshot and compare every existing keybind
 
 ## 4. Produce a reproducible adaptation manifest
 
+### Completion gate for maximum feasible synchronization
+
+When the user requests maximum feasible pack synchronization, installing the first native-mod batch is only a milestone. Maintain coverage of the reference pack's indexed, embedded and nested mods, configurations, quests, recipes/loot/shops, scripts, custom registrations, datapacks and resources. For each functional item record its source, actual local provider, differences, decision and evidence. Deduplicate equivalent features, but do not use a few easy mods as the denominator.
+
+Distinguish equivalent retained content, adapted/applied content, candidates awaiting implementation or validation, explicit blockers, and uninvestigated items. Uninvestigated does not mean blocked. A chapter referencing a custom core does not make every quest a code-porting task. Check native target-version releases, existing local equivalents, configuration/data mappings, and small script or code adaptations before concluding that a substantial port is needed. Name the exact missing provider/version/interface and the alternative paths checked; no native release alone does not prove no feasible solution.
+
+Continue batching authorized, feasible low-cost candidates. Claim maximum feasible synchronization only after coverage is complete, feasible items are completed or explicitly deferred by the user, and every remaining item has a concrete blocker and stated validation limits. A playable milestone may ship early, but retain the whole-pack backlog and do not end the task as if that milestone completed it. Restrictions on runtime testing do not prevent independent offline preparation.
+
 For each item record its feature chain, B/U/L provenance and hashes, target source/download and hash, operation and reason, dependencies, retained local intent, conflict resolution, historical failure conditions, validation state, and rollback scope. Keep `candidate`, `blocked`, `static_checked`, and `runtime_passed` distinct.
 
 Classify chains as lower-risk data adaptations, ongoing compatibility risks, or deferred because of missing providers or major rewrites. Risk class is not a pass result. Once dependencies close, test a batch together rather than asking the user to enter a world for each file. If dialogue/trainer bridges are missing, isolate the dependent DLCs too; removing the bridge cannot leave a claim that the DLC is usable.
