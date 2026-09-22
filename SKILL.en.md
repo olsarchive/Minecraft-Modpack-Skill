@@ -15,6 +15,15 @@ Carry forward the user's existing scope and authorization. If instructed to insp
 
 Installation, desktop control, world entry, and publishing each follow the user's actual authorization. Later explicit permission can supersede earlier restrictions; do not ask again for permission already granted. If conversation history is incomplete, recover status from current files, manifests, and logs. Do not repeat or overwrite applied work because an old summary stopped at an earlier batch.
 
+## Execution efficiency: finish work without adding gates
+
+- Read the current ledger and batch diff; load only relevant references. Finish feasible offline work before focused playtesting. One runtime-dependent item does not block unrelated offline work.
+- Within existing repair/application authorization, complete small, understood, backed-up fixes without separate approval rounds for diagnosis, preparation, and a one-field write. Ask only about unresolved scope, unique progress ownership, or unclear irreversible risk.
+- Reuse unchanged evidence. Avoid repeated disk-wide scans, full log dumps, instance copies, and restarts per file. Filter and summarize first; store detailed evidence in files.
+- Continue feasible native candidates, data mappings, and narrow patches. Block on concrete provider/API barriers. Replacing machines with ordinary blocks or changing the economy is not equivalent when original gameplay is required.
+- Use observed failures as regression scenarios. Small documentation changes do not automatically need repeated agent reviews or a new test framework. Distinguish tool tests, textual self-review, and game tests.
+- For farming quest icons, client compatibility, friend patches, or cleanup, consult [recent repair lessons](references/farming-lessons.en.md) only when relevant.
+
 ## 1. Identify the real baseline
 
 - Confirm the launcher display name, actual directory, latest launch log's gameDir, and exact Minecraft and loader versions. Directory names and old records may be stale.
@@ -88,13 +97,13 @@ Bind the user's designated MAIN display name, stable launcher ID, and absolute p
 
 Full-cycle closeout includes reclaiming disk space. Delete completed agent-verifiable test copies after confirming their accepted content is in MAIN and they contain no unique progress. Retain copies with specific outstanding manual checks. Record explicit user playtesting acceptance, including acceptance of residual scope for later repairs, without demanding exhaustive testing or inventing passes. Once required testing is complete or remaining scope is explicitly accepted, verify MAIN against the final manifest and remove obsolete TEST copies, duplicate staging, and failed exports. Resolve exact deletion paths, check open processes and unique data, retain necessary rollback material and compact evidence, verify reclaimed bytes, and remove corresponding stale launcher entries.
 
-Confirm normal game exit before creating an independent TEST copy. Verify the unchanged baseline, then dependency-complete feature chains, then the combined candidate. Use the real old world and corresponding player identity; a new offline account cannot prove the original party, PC, quests, and inventory survived.
+For mod-combination or world-behavior changes, confirm normal exit and create or reuse a scoped TEST copy. An understood, authorized quest-icon field repair may be backed up and applied directly without copying an entire world for one line. Reuse valid baseline evidence; otherwise verify the unchanged baseline before dependency-complete chains and the combined candidate. Use the real old world and corresponding player identity; a new offline account cannot prove the original party, PC, quests, and inventory survived.
 
 Reuse and cite existing evidence when exact inputs, relevant configuration, and trigger conditions are unchanged. Retest affected scope when a chain or final combination changes; do not restart full-pack testing every time.
 
 Use [batched acceptance and release](references/acceptance.en.md) for exhaustive static checks plus representative runtime tests. Do not default to testing thousands of skins individually; sample providers, interactions, and persistence mechanisms. Document a user's choice to skip world checks; menu success is not old-world success.
 
-Within this batch's impact, check old Pokémon/forms/items, PC, battles, gym mode, quest rewards, currency, recipes, riding, old buildings/machines, resources, and shaders; save, exit, and reopen. This is not a full-pack exhaustive checklist every time. Stop the affected chain on unplanned region deletion, missing registrations, or reset data. Normal saving changes files: compare data semantics rather than demanding byte-identical worlds.
+Within this batch's impact, check old Pok茅mon/forms/items, PC, battles, gym mode, quest rewards, currency, recipes, riding, old buildings/machines, resources, and shaders; save, exit, and reopen. This is not a full-pack exhaustive checklist every time. Stop the affected chain on unplanned region deletion, missing registrations, or reset data. Normal saving changes files: compare data semantics rather than demanding byte-identical worlds.
 
 Apply to MAIN only within clear authorization, using the tested exact files and order. Back up replaced files; data migrations also need associated world/player/map backups. Recheck MAIN baseline hashes before applying and reassess drift. Never overwrite MAIN's world with TEST's world.
 

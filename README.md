@@ -70,3 +70,5 @@ python scripts/compare_pack.py --help
 ```
 
 25 项工具回归测试覆盖安全输出、输入格式、三方差异、本地身份与删除意图、重复键及 SNBT 往返。行为评估案例见 [tests/skill-scenarios.md](tests/skill-scenarios.md)。工具测试、技能文字场景测试与 Minecraft 实机验收是不同证据，不能相互冒充。
+
+近期新增：[农场同步与集中返修](references/farming-lessons.md)，含任务图标组件、客户端错误、真实按键入口、朋友补丁与低往返执行规则。

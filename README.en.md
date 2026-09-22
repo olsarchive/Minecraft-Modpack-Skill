@@ -37,3 +37,5 @@ python scripts/compare_pack.py --help
 ```
 
 Tool tests, prose behavior scenarios, and real Minecraft acceptance are separate evidence. A menu or postInit pass does not prove an old-world feature, quest reward, battle, or every cosmetic works.
+
+Recent additions: [farming sync and batched repair](references/farming-lessons.en.md), covering quest components, client errors, actual key labels, friend patches, and fewer execution round trips.
