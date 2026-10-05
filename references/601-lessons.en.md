@@ -6,6 +6,7 @@ These are conditional mechanisms, not fixed versions, paths, or mandatory full-p
 
 - Continue one authorized task to its concrete delivery boundary. Lock sources, the actual MAIN instance, dependency graph and ledger; batch independent offline work rather than asking separately for audit, staging, installation and readback.
 - Unknown is not confirmed blocked. Resolve version syntax, Connector mappings and inherited methods before treating scanner warnings as hard conflicts. Fifteen purported missing methods were actually unresolved mappings.
+- Match Windows paths using the filesystem's actual case semantics while retaining original spelling. Differently cased chapter names produced a false missing-file/drift alarm; prove identity with samefile and real directory entries rather than bypassing the hash gate.
 - Check owner/name/descriptor and mapped inheritance. Constant-pool string presence alone proves neither compatibility nor absence. Prefer native releases; patch only confirmed, small API breaks. SpawnBucket removal requires an actual API adaptation, not a wider dependency range.
 - Reuse unchanged evidence. Fix the first causal failure and retest affected chains, then sample the final locked combination. Avoid repeated full scans, downloads, world copies and unchanged legacy checks.
 
@@ -31,6 +32,7 @@ These are conditional mechanisms, not fixed versions, paths, or mandatory full-p
 - Respect user acceptance of representative checks. Deliver the accepted scope and retain honest uncertainty; neither claim exhaustive stability nor keep every disposable clone indefinitely.
 - Apply an incremental manifest, retire replaced active JARs, and exclude caches, probes, temporary quests and test progress. Transfer world patches by exact path, never by mirroring the world.
 - Export a standard self-contained mrpack from synchronized MAIN, with mods, local adaptations, quests, scripts, resources, keybindings and shaders. Lock the exact loader. Friends import into a new instance rather than overlaying old mods.
+- Final startup may populate updated configuration schemas. Refresh the export snapshot after that run; check any earlier export for real drift and replace it, then remove the duplicate only after member verification passes.
 - Exclude accounts/tokens, private worlds, inventories/Pokémon progress, map trails, client encounter databases, logs and temporary probes. Verify every archive member and settings; friend-machine runtime remains a separate result.
 - Before cleanup, verify the MAIN manifest, process ownership and unique progress. Keep a necessary short-term rollback and concise evidence. Use supported launcher removal, never manual database edits; report any real removal blocker.
 - Delete only resolved absolute targets within verified boundaries, rejecting junction/symlink escapes and using one shell throughout. Report reclaimed disk bytes, not RAM.
